@@ -1,0 +1,3 @@
+include datasets/frames/train/*.jpg
+include datasets/frames/test/*.jpg
+include datasets/frames/val/*.jpg
